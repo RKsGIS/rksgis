@@ -1,16 +1,14 @@
-## Hi there 👋
+## Ram kumar Muthusamy
 
-<!--
-**RKsGIS/rksgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ramkmuthusamy/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=UJLC-QEAAAAJ&hl=en)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://rksgis.github.io/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rksgis.rksgis)
 
-Here are some ideas to get you started:
+ 
+Msc Geoinformatics and spatial data science student at University-of-Muenster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rksgis&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rksgis&langs_count=3&hide=javascript,go,html,css,tex&layout=compact)
