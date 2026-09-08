@@ -10,5 +10,5 @@ Msc Geoinformatics and spatial data science student at University-of-Muenster.
 
 ---
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rksgis&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rksgis&langs_count=3&hide=javascript,go,html,css,tex&layout=compact)
+![github stats](https://github-stats-extended.vercel.app/api?username=rksgis&show_icons=true&theme=default)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rksgis&langs_count=3&hide=javascript,go,html,css,tex&layout=compact)
