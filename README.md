@@ -1,6 +1,6 @@
 ## Ram kumar Muthusamy
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ramkmuthusamy/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ramkumarmuthusamy/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=UJLC-QEAAAAJ&hl=en)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://rksgis.github.io/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rksgis.rksgis)
