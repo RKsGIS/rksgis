@@ -6,7 +6,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rksgis.rksgis)
 
  
-Msc Geoinformatics and spatial data science student at University-of-Muenster.
+
 
 ---
 
